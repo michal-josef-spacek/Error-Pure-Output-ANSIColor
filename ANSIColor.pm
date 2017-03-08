@@ -89,7 +89,7 @@ sub err_print_var {
 	my @errors = @_;
 	my @msg = @{$errors[-1]->{'msg'}};
 	my $class = _err_class($errors[-1]);
-	my @ret = ($class.(shift @msg));
+	my @ret = ($class.color($EPANSI_ERROR_COLOR).(shift @msg).color('reset'));
 	push @ret, _err_variables(@msg);
 	return wantarray ? @ret : (join "\n", @ret)."\n";
 }
