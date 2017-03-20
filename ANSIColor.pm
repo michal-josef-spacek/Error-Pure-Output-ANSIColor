@@ -58,7 +58,6 @@ sub err_die {
 		color($EPANSI_LINE_COLOR)."$stack_ar->[0]->{'line'}.".
 		color('reset');
 	return $die;
-		die "$die\n";
 }
 
 # Pretty print line error.

@@ -1,5 +1,6 @@
 0.02
  - Fix output for err_print_var().
+ - Remove obsolete code.
 
 0.01 2017-03-08T15:25:31+01:00
  - First version.
