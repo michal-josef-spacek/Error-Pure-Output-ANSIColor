@@ -19,7 +19,7 @@ our $EPANSI_OTHER_COLOR = 'cyan';
 our $EPANSI_SCRIPT_COLOR = 'yellow';
 our $EPANSI_SUB_COLOR = 'green';
 
-our $VERSION = 0.03;
+our $VERSION = 0.04;
 
 # Pretty print of backtrace.
 sub err_bt_pretty {
@@ -706,6 +706,6 @@ L<http://skim.cz>
 
 =head1 VERSION
 
-0.03
+0.04
 
 =cut
