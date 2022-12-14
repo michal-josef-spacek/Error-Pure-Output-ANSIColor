@@ -1,4 +1,5 @@
 0.04
+ - Add LICENSE file.
  - Fix err_print() to ANSI output.
  - Update to new Module::Install.
 
