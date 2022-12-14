@@ -2,6 +2,7 @@
  - Add LICENSE file.
  - Fix err_print() to ANSI output.
  - Improve LICENSE AND COPYRIGHT section in doc.
+ - Update and fix copyright years.
  - Update Module::Install to 1.19 version.
 
 0.03 2017-04-02T19:38:25+02:00
