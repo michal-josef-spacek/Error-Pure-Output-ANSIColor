@@ -691,7 +691,7 @@ Install the Error::Pure modules.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Error-Pure-Output-ANSIColor>
+L<https://github.com/michal-josef-spacek/Error-Pure-Output-ANSIColor>
 
 =head1 AUTHOR
 

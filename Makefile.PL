@@ -23,8 +23,8 @@ requires 'Term::ANSIColor' => 0;
 requires 'perl' => '5.6.2';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Error-Pure-Output-ANSIColor';
-resources 'homepage' => 'https://github.com/tupinek/Error-Pure-Output-ANSIColor';
-resources 'repository' => 'git://github.com/tupinek/Error-Pure-Output-ANSIColor';
+resources 'homepage' => 'https://github.com/michal-josef-spacek/Error-Pure-Output-ANSIColor';
+resources 'repository' => 'git://github.com/michal-josef-spacek/Error-Pure-Output-ANSIColor';
 test_requires 'Test::More' => 0;
 test_requires 'Test::NoWarnings' => 0;
 tests_recursive;

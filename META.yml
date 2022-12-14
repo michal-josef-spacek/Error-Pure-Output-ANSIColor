@@ -29,7 +29,7 @@ requires:
   perl: 5.6.2
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Error-Pure-Output-ANSIColor
-  homepage: https://github.com/tupinek/Error-Pure-Output-ANSIColor
+  homepage: https://github.com/michal-josef-spacek/Error-Pure-Output-ANSIColor
   license: http://opensource.org/licenses/bsd-license.php
-  repository: git://github.com/tupinek/Error-Pure-Output-ANSIColor
+  repository: git://github.com/michal-josef-spacek/Error-Pure-Output-ANSIColor
 version: '0.04'
