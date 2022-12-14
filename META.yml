@@ -28,7 +28,7 @@ requires:
   Term::ANSIColor: 0
   perl: 5.6.2
 resources:
-  bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Error-Pure-Output-ANSIColor
+  bugtracker: https://github.com/michal-josef-spacek/Error-Pure-Output-ANSIColor/issues
   homepage: https://github.com/michal-josef-spacek/Error-Pure-Output-ANSIColor
   license: http://opensource.org/licenses/bsd-license.php
   repository: git://github.com/michal-josef-spacek/Error-Pure-Output-ANSIColor

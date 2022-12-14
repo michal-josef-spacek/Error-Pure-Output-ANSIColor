@@ -2,6 +2,7 @@
  - Add LICENSE file.
  - Fix err_print() to ANSI output.
  - Improve LICENSE AND COPYRIGHT section in doc.
+ - Move bugtracker to github.
  - Update and fix copyright years.
  - Update author github name.
  - Update author name.
