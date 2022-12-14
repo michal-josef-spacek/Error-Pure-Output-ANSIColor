@@ -80,7 +80,7 @@ sub err_line_all {
 sub err_print {
 	my @errors = @_;
 	my $class = _err_class($errors[-1]);
-	return $class.$errors[-1]->{'msg'}->[0];
+	return $class.color($EPANSI_ERROR_COLOR).$errors[-1]->{'msg'}->[0].color('reset');
 }
 
 # Print error with all variables.
