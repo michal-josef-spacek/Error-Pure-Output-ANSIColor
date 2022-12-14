@@ -2,7 +2,7 @@
  - Add LICENSE file.
  - Fix err_print() to ANSI output.
  - Improve LICENSE AND COPYRIGHT section in doc.
- - Update to new Module::Install.
+ - Update Module::Install to 1.19 version.
 
 0.03 2017-04-02T19:38:25+02:00
  - Fix #120864 - Makefile.PL fails with no '.' in @INC.
