@@ -1,4 +1,5 @@
 0.05
+ - Rename example files to better names.
  - Rewrite doc to use of =head2.
  - Update Module::Install to 1.21 version.
  - Update copyright years.

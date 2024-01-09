@@ -1,7 +1,6 @@
 TODO
 ====
 2. Tests
-4. Rename example files to better names
 5.
 
 Applied
@@ -11,4 +10,7 @@ Applied
 OK [20170320] skim
 
 3. Rewrite doc to use =head2
+OK [20240109] skim
+
+4. Rename example files to better names
 OK [20240109] skim

@@ -330,6 +330,8 @@ Returns lines of error in array mode.
 
 =head1 EXAMPLE1
 
+=for comment filename=err_bt_pretty.pl
+
  use strict;
  use warnings;
 
@@ -369,6 +371,8 @@ Returns lines of error in array mode.
  # main  eval {...}  script.pl  20
 
 =head1 EXAMPLE2
+
+=for comment filename=err_line_all.pl
 
  use strict;
  use warnings;
@@ -420,6 +424,8 @@ Returns lines of error in array mode.
 
 =head1 EXAMPLE3
 
+=for comment filename=err_line.pl
+
  use strict;
  use warnings;
 
@@ -455,6 +461,8 @@ Returns lines of error in array mode.
  # #Error [script.pl:1] FOO
 
 =head1 EXAMPLE4
+
+=for comment filename=err_bt_pretty_eval.pl
 
  use strict;
  use warnings;
@@ -510,6 +518,8 @@ Returns lines of error in array mode.
 
 =head1 EXAMPLE5
 
+=for comment filename=err_bt_pretty_rev_eval.pl
+
  use strict;
  use warnings;
 
@@ -564,6 +574,8 @@ Returns lines of error in array mode.
 
 =head1 EXAMPLE6
 
+=for comment filename=err_print_main.pl
+
  use strict;
  use warnings;
 
@@ -600,6 +612,8 @@ Returns lines of error in array mode.
 
 =head1 EXAMPLE7
 
+=for comment filename=err_print_class.pl
+
  use strict;
  use warnings;
 
@@ -635,6 +649,8 @@ Returns lines of error in array mode.
  # Class: FOO
 
 =head1 EXAMPLE8
+
+=for comment filename=err_print_var.pl
 
  use strict;
  use warnings;
@@ -676,6 +692,8 @@ Returns lines of error in array mode.
  # KEY2: VALUE2
 
 =head1 EXAMPLE9
+
+=for comment filename=err_die.pl
 
  use strict;
  use warnings;
