@@ -273,7 +273,7 @@ Values of error are:
  sub, caller, program, line
  ...
 
-=head2 C<err_die(@errors)>
+=head2 C<err_die>
 
  my $ret = err_die(@errors);
 

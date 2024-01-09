@@ -72,7 +72,7 @@ SUBROUTINES
      sub, caller, program, line
      ...
 
-  "err_die(@errors)"
+  "err_die"
      my $ret = err_die(@errors);
 
     Returns string with error in classic die style with colors with ANSI
