@@ -1,7 +1,6 @@
 TODO
 ====
 2. Tests
-3. Rewrite doc to use =head2
 4. Rename example files to better names
 5.
 
@@ -10,3 +9,6 @@ Applied
 1. Prvni verze modulu, kde budou ruzne rutiny pro Error::Pure vystup.
    Pocitat s tim, ze jako argument je pole erroru.
 OK [20170320] skim
+
+3. Rewrite doc to use =head2
+OK [20240109] skim
