@@ -19,7 +19,7 @@ our $EPANSI_OTHER_COLOR = 'cyan';
 our $EPANSI_SCRIPT_COLOR = 'yellow';
 our $EPANSI_SUB_COLOR = 'green';
 
-our $VERSION = 0.05;
+our $VERSION = 0.06;
 
 # Pretty print of backtrace.
 sub err_bt_pretty {
@@ -766,6 +766,6 @@ BSD 2-Clause License
 
 =head1 VERSION
 
-0.05
+0.06
 
 =cut
