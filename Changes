@@ -1,4 +1,4 @@
-0.05
+0.05 2024-01-09T21:10:45+01:00
  - Rename example files to better names.
  - Rewrite doc to use of =head2.
  - Update Module::Install to 1.21 version.
